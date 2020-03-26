@@ -1,4 +1,4 @@
 name: PasswordWhitelist
 author: gronnmann
-version: 1.0
+version: 1.2
 main: io.github.gronnmann.passwordwhitelist.PasswordWhitelist
